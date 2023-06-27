@@ -8,7 +8,7 @@ The primary additions are as follows:
 
 ## Pretrained models
 
-You can download our best model from [here]().
+You can download our best model from [here](https://drive.google.com/file/d/1Vz9qJtONm86F4G1Rew8EPp0Rhj9hK4Wl/view?usp=sharing).
 
 
 ## Requirements
