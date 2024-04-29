@@ -1,6 +1,6 @@
 # ORTPiece: An ORT-Based Turkish Image Captioning Network Based on Transformers and WordPiece
 
-This is a PyTorch implementation of the ORTPiece paper accepted in SIU2023. This repository is largely based on code from the Object Relation Transformer paper which you can find [here](https://github.com/yahoo/object_relation_transformer).
+This is a PyTorch implementation of the [ORTPiece paper](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4146675600184051868) accepted in SIU2023. This repository is largely based on code from the Object Relation Transformer paper which you can find [here](https://github.com/yahoo/object_relation_transformer).
 
 The primary additions are as follows:
 * WordPiece Tokenization
@@ -148,7 +148,14 @@ python eval.py --dump_images 0 --num_images 500 --model wordpiece_20_3_log_relat
 
 ## Citation
 
-To be added...
+    @inproceedings{ersoy2023ortpiece,
+    title={ORTPiece: An ORT-based Turkish image captioning network based on transformers and WordPiece},
+    author={Ersoy, Asim and Y{\i}ld{\i}z, Olcay Taner and {\"O}zer, Sedat},
+    booktitle={2023 31st Signal Processing and Communications Applications Conference (SIU)},
+    pages={1--4},
+    year={2023},
+    organization={IEEE}
+    }
 
 
 ## Acknowledgments
